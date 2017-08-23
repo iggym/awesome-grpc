@@ -3,4 +3,8 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 
 
 ## Microservices
-[Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+* [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
+
+
+## Go Microservices repos
+* [HTTP up front, Protobufs in the rear.](https://github.com/harlow/go-micro-services)
