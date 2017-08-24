@@ -17,4 +17,5 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 * [Atom with go-plus plugin](https://atom.io/packages/go-plus)
 * [GoClipse](https://github.com/GoClipse/goclipse)
 * [GoSublime](https://github.com/DisposaBoy/GoSublime)
+* [Visual Studio Code](https://code.visualstudio.com/)
 
