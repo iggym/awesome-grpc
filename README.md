@@ -16,4 +16,5 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 * [Gogland](https://www.jetbrains.com/go/)
 * [Atom with go-plus plugin](https://atom.io/packages/go-plus)
 * [GoClipse](https://github.com/GoClipse/goclipse)
+* [GoSublime](https://github.com/DisposaBoy/GoSublime)
 
