@@ -10,7 +10,9 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 * [HTTP up front, Protobufs in the rear.](https://github.com/harlow/go-micro-services)
 
 ## Google ProtocolBuffers repos
+* [Protocol Compilers](https://github.com/google/protobuf)
 * [Google ProtocolBuffers for Apple Swift](https://github.com/alexeyxo/protobuf-swift)
+* [Proto3 Language Guide](https://developers.google.com/protocol-buffers/docs/proto3)
 
 ## Go IDEs
 * [Gogland](https://www.jetbrains.com/go/)
