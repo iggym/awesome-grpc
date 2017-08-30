@@ -1,6 +1,8 @@
 # Awesome-grpc
 A collaborative list of awesome gRPC resources. Feel free to contribute!
 
+## gRPC
+* [high performance, open source, general-purpose RPC framework](https://github.com/grpc)
 
 ## Microservices
 * [Awesome Microservices](https://github.com/mfornos/awesome-microservices)
