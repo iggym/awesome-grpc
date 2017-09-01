@@ -19,6 +19,9 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 * [Google ProtocolBuffers for Apple Swift](https://github.com/alexeyxo/protobuf-swift)
 * [Proto3 Language Guide](https://developers.google.com/protocol-buffers/docs/proto3)
 
+## gRPC with Go
+* [Go programmer’s introduction to working with gRPC](https://grpc.io/docs/tutorials/basic/go.html)
+
 ## Go IDEs
 * [Gogland](https://www.jetbrains.com/go/)
 * [Atom with go-plus plugin](https://atom.io/packages/go-plus)
