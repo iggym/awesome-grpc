@@ -21,6 +21,7 @@ A collaborative list of awesome gRPC resources. Feel free to contribute!
 
 ## gRPC with Go
 * [Go programmer’s introduction to working with gRPC](https://grpc.io/docs/tutorials/basic/go.html)
+* [Go introduction to working with gRPC.](https://github.com/phuongdo/go-grpc-tutorial)
 
 ## Go IDEs
 * [Gogland](https://www.jetbrains.com/go/)
